@@ -1,2 +1,3 @@
-# mais1code-bank-accounts
-Simulação simples do funcionamento de um banco, usando Python.
+### Simulação de contas de banco
+
+Esse aplicativo simula o funcionamento de um banco. 
